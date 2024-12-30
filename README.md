@@ -2,13 +2,8 @@
 This project is a simple calculator.
 
 ## User Interface 
-![Calculator UI](https://github.com/sujalvaja/simple-calculator/blob/main/cal1.jpg)
+<html><body><img width="100" height="100" src"https://github.com/sujalvaja/simple-calculator/blob/main/cal1.jpg"/></body></html>
+<html><body><img width="100" height="100" src"https://github.com/sujalvaja/simple-calculator/blob/main/cal.jpg"/></body></html>
 
-control + shift + m
-tab esc tab
-3
-## General info
-This project is a simple calculator.
 
-## User Interface 
-![Calculator UI](https://github.com/sujalvaja/simple-calculator/blob/main/cal.jpg)
+
